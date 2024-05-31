@@ -1,0 +1,5 @@
+matplotlib
+qiskit
+qiskit_ibm_runtime
+pylatexenc
+python-dotenv
