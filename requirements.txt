@@ -1,5 +1,6 @@
 matplotlib
 qiskit
 qiskit_ibm_runtime
+qiskit_aer
 pylatexenc
 python-dotenv
